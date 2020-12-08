@@ -1,0 +1,15 @@
+---
+name: Report
+version: 0.0.1
+main: Superomarking\Report\Main
+api: 3.16.0
+aurthor: Superomarking
+
+commands:
+  report:
+    description: "Report A Player"
+
+permisions:
+  report.sender:
+    default: op
+...
