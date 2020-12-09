@@ -15,7 +15,7 @@ use pocketmine\utils\TextFormat;
 
 class Main extends PluginBase implements Listener {
 
-    public $prefix = [SkyPixel Report] ;
+    public $prefix = "SkyPixel Report ";
 
     public function onEnable(){
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
