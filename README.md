@@ -1,2 +1,2 @@
 # Report
-Report Plugini By Superomarking
+Report PluginBy Superomarking
